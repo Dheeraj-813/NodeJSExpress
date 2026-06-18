@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.22.1",
+    "express": "^4.22.2",
     "figlet": "^1.9.3",
     "uuid": "^10.0.0"
   },
