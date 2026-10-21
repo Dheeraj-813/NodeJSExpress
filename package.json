@@ -9,7 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.22.2",
-    "figlet": "^1.9.3",
+    "figlet": "^1.11.3",
     "uuid": "^14.0.0"
   },
   "description": ""
